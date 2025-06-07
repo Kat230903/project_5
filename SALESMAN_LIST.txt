@@ -1,0 +1,38 @@
+SALESMAN_LIST
+{
+	SALESMAN 
+	{
+		CODE 13
+		SURNAME "Palaiologou"
+		FIRSTNAME "Aikaterinh"
+		AFM 452
+	}
+	SALESMAN 
+	{
+		CODE 14
+		SURNAME "Berdufi"
+		FIRSTNAME "Daniela"
+		AFM 465
+	}
+	SALESMAN 
+	{
+		CODE 15
+		SURNAME "Ntzioka"
+		FIRSTNAME "Evaggelia"
+		AFM 478
+	}
+	SALESMAN 
+	{
+		CODE 19
+		SURNAME "gaglias"
+		FIRSTNAME "iasonas"
+		AFM 123
+	}
+	SALESMAN 
+	{
+		CODE 20
+		SURNAME "kotoulia"
+		FIRSTNAME "eirhnh"
+		AFM 124
+	}
+}

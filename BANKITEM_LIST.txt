@@ -1,0 +1,60 @@
+BANKITEM_LIST
+{
+	BANKITEM 
+	{
+		TYPE Loan
+		CODE 34
+		DESCR "Daneio352"
+		AFM vat1
+		amount 40.0
+		interest rate 0.009999999776482582
+	}
+	BANKITEM 
+	{
+		TYPE Loan
+		CODE 35
+		DESCR "Daneio400"
+		AFM vat2
+		amount 10.0
+		interest rate 0.009999999776482582
+	}
+	BANKITEM 
+	{
+		TYPE Loan
+		CODE 36
+		DESCR "Daneio184"
+		AFM vat3
+		amount 20.0
+		interest rate 0.009999999776482582
+	}
+	BANKITEM 
+	{
+		TYPE Card
+		CODE 37
+		DECSR "Card938"
+		AFM vat4
+		maximum amount 3000.0
+		rate 0.10000000149011612
+		maximum year amount 10000.0
+	}
+	BANKITEM 
+	{
+		TYPE Card
+		CODE 38
+		DECSR "Card837"
+		AFM vat5
+		maximum amount 2000.0
+		rate 0.10000000149011612
+		maximum year amount 50876.0
+	}
+	BANKITEM 
+	{
+		TYPE Card
+		CODE 39
+		DECSR "Card398"
+		AFM vat6
+		maximum amount 5000.0
+		rate 0.10000000149011612
+		maximum year amount 600002.0
+	}
+}

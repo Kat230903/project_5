@@ -1,0 +1,75 @@
+TRN_LIST
+{
+	TRN 
+	{
+		BANKITEM_CODE 37
+		VAL 5342.0
+		JUSTIFICATION "aitio kinhshs1"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 37
+		VAL 542.0
+		JUSTIFICATION "aitio kinhshs2"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 37
+		VAL 650.0
+		JUSTIFICATION "aitio kinshs3"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 37
+		VAL 672.0
+		JUSTIFICATION "aitio kinhshs4"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 38
+		VAL 300.0
+		JUSTIFICATION "aitio kinhshs5"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 38
+		VAL 4005.0
+		JUSTIFICATION "aitio kinhshs6"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 38
+		VAL 300.0
+		JUSTIFICATION "aitio kinhshs7"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 38
+		VAL 3009.0
+		JUSTIFICATION "aitio kinhshs8"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 39
+		VAL 1000.0
+		JUSTIFICATION "aitio kinhshs9"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 39
+		VAL 1050.0
+		JUSTIFICATION "aitio kinhshs10"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 39
+		VAL 6000.0
+		JUSTIFICATION "aitio kinhshs11"
+	}
+	TRN 
+	{
+		BANKITEM_CODE 39
+		VAL 500.0
+		JUSTIFICATION "aitio kinhshs12"
+	}
+}
